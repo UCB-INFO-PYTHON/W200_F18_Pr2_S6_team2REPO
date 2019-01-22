@@ -11,7 +11,7 @@ We present an exploration of the above three dimensions through four central que
 1) What borough carries the largest injuries and fatalities on an absolute basis? What if we normalize by population?
 2) What are the top zip codes or even particular crossings to be aware of?
 3) What are the most commonly identified contributing factors and vehicles? Do these suggest potential policy adjustments?
-4) What seasonality does the data show from a time-series perspective (if any)? Anything to highlight per injured subject (pedestrian/cyclist/motorist)? Per factor level (e.g. mobile phones)?
+4) What seasonality does the data show from a time-series perspective (if any)? Anything to highlight per injured subject (pedestrian/cyclist/motorist)? Per factor level (e.g. speed)?
 
 ### Any special instructions:
 None in particular. We have provided the following documents in this repository summarizing our work and results. Listed in reverse chronological order of creation, from latest to earliest:
